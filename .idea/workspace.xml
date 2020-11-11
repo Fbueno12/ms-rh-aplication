@@ -24,7 +24,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hr-worker/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hr-worker" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,9 +38,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1063" y="312" width="424" height="482" key="FileChooserDialogImpl" timestamp="1605121940301">
+    <state x="1063" y="312" width="424" height="482" key="FileChooserDialogImpl" timestamp="1605122959574">
       <screen x="0" y="28" width="2560" height="1052" />
     </state>
-    <state x="1063" y="312" width="424" height="482" key="FileChooserDialogImpl/0.28.2560.1052@0.28.2560.1052" timestamp="1605121940301" />
+    <state x="1063" y="312" width="424" height="482" key="FileChooserDialogImpl/0.28.2560.1052@0.28.2560.1052" timestamp="1605122959574" />
   </component>
 </project>
