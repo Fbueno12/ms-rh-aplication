@@ -2,6 +2,7 @@ package br.com.felipebueno.hrpayroll.services;
 
 import br.com.felipebueno.hrpayroll.entities.Payment;
 import br.com.felipebueno.hrpayroll.entities.Worker;
+import br.com.felipebueno.hrpayroll.feignClients.WorkerFeignClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
@@ -13,18 +14,12 @@ import java.util.Map;
 @Service
 public class PaymentService {
 
-    @Value("${url.hr-worker}")
-    private String workerURL;
-
     @Autowired
-    private RestTemplate restTemplate;
+    private WorkerFeignClient workerFeignClient;
 
     public Payment getPayment(long workerId, int days) {
 
-        Map<String, String> uriVariables = new HashMap<>();
-        uriVariables.put("id", String.valueOf(workerId));
-
-        Worker worker = restTemplate.getForObject(workerURL + "/workers/{id}", Worker.class, uriVariables);
+        Worker worker = workerFeignClient.findById(workerId).getBody();
 
         return Payment.builder().name(worker.getName())
                 .dailyIncome(worker.getDailyIncome()).days(days).build();
