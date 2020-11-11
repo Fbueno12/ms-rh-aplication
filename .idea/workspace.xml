@@ -5,43 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e53acdfc-4e09-4fd6-8cc2-1958f2642ad7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_29_0_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_3_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/br/com/felipebueno/hrpayroll/feignClients/WorkerFeignClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_2_6_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hr-payroll/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/java/br/com/felipebueno/hrpayroll/HrPayrollApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/br/com/felipebueno/hrpayroll/HrPayrollApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/java/br/com/felipebueno/hrpayroll/services/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/br/com/felipebueno/hrpayroll/services/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/java/br/com/felipebueno/hrpayroll/feignClients/WorkerFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/br/com/felipebueno/hrpayroll/feignClients/WorkerFeignClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/java/br/com/felipebueno/hrworker/controllers/WorkerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker/src/main/java/br/com/felipebueno/hrworker/controllers/WorkerController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +72,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+      </set>
+    </option>
+  </component>
   <component name="RunManager" selected="Application.HrPayrollApplication">
     <configuration name="HrPayrollApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.felipebueno.hrpayroll.HrPayrollApplication" />
@@ -95,9 +93,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HrWorkerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="HrWorkerApplication8001" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="br.com.felipebueno.hrworker.HrWorkerApplication" />
       <module name="hr-worker" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8001" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.felipebueno.hrworker.*" />
@@ -108,10 +107,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HrWorkerApplication8002" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.com.felipebueno.hrworker.HrWorkerApplication" />
+      <module name="hr-worker" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.felipebueno.hrworker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HrWorkerApplication8002" />
+      <item itemvalue="Application.HrPayrollApplication" />
+      <item itemvalue="Application.HrWorkerApplication8001" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.HrPayrollApplication" />
-        <item itemvalue="Application.HrWorkerApplication" />
+        <item itemvalue="Application.HrWorkerApplication8001" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +145,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="353" y="171" width="2038" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605129755217">
+      <screen x="0" y="28" width="2560" height="1052" />
+    </state>
+    <state x="353" y="171" width="2038" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.2560.1052@0.28.2560.1052" timestamp="1605129755217" />
+    <state x="1578" y="167" width="424" height="582" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1605129364103">
+      <screen x="0" y="28" width="2560" height="1052" />
+    </state>
+    <state x="1578" y="167" width="424" height="582" key="#com.intellij.ide.macro.MacrosDialog/0.28.2560.1052@0.28.2560.1052" timestamp="1605129364103" />
     <state x="1622" y="203" width="575" height="700" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1605125113487">
       <screen x="0" y="28" width="2560" height="1052" />
     </state>
@@ -135,33 +161,33 @@
       <screen x="0" y="28" width="2560" height="1052" />
     </state>
     <state x="1873" y="272" width="424" height="482" key="FileChooserDialogImpl/0.28.2560.1052@0.28.2560.1052" timestamp="1605124993112" />
-    <state width="1214" height="269" key="GridCell.Tab.0.bottom" timestamp="1605126918024">
+    <state width="850" height="269" key="GridCell.Tab.0.bottom" timestamp="1605130025449">
       <screen x="0" y="28" width="2560" height="1052" />
     </state>
-    <state width="1214" height="269" key="GridCell.Tab.0.bottom/0.28.2560.1052@0.28.2560.1052" timestamp="1605126918024" />
-    <state width="1214" height="269" key="GridCell.Tab.0.center" timestamp="1605126918023">
+    <state width="850" height="269" key="GridCell.Tab.0.bottom/0.28.2560.1052@0.28.2560.1052" timestamp="1605130025449" />
+    <state width="850" height="269" key="GridCell.Tab.0.center" timestamp="1605130025449">
       <screen x="0" y="28" width="2560" height="1052" />
     </state>
-    <state width="1214" height="269" key="GridCell.Tab.0.center/0.28.2560.1052@0.28.2560.1052" timestamp="1605126918023" />
-    <state width="1214" height="269" key="GridCell.Tab.0.left" timestamp="1605126918023">
+    <state width="850" height="269" key="GridCell.Tab.0.center/0.28.2560.1052@0.28.2560.1052" timestamp="1605130025449" />
+    <state width="850" height="269" key="GridCell.Tab.0.left" timestamp="1605130025449">
       <screen x="0" y="28" width="2560" height="1052" />
     </state>
-    <state width="1214" height="269" key="GridCell.Tab.0.left/0.28.2560.1052@0.28.2560.1052" timestamp="1605126918023" />
-    <state width="1214" height="269" key="GridCell.Tab.0.right" timestamp="1605126918024">
+    <state width="850" height="269" key="GridCell.Tab.0.left/0.28.2560.1052@0.28.2560.1052" timestamp="1605130025449" />
+    <state width="850" height="269" key="GridCell.Tab.0.right" timestamp="1605130025449">
       <screen x="0" y="28" width="2560" height="1052" />
     </state>
-    <state width="1214" height="269" key="GridCell.Tab.0.right/0.28.2560.1052@0.28.2560.1052" timestamp="1605126918024" />
-    <state x="1403" y="131" width="1024" height="843" key="SettingsEditor" timestamp="1605125702517">
+    <state width="850" height="269" key="GridCell.Tab.0.right/0.28.2560.1052@0.28.2560.1052" timestamp="1605130025449" />
+    <state x="1403" y="131" width="1024" height="843" key="SettingsEditor" timestamp="1605129527203">
       <screen x="0" y="28" width="2560" height="1052" />
     </state>
-    <state x="1403" y="131" width="1024" height="843" key="SettingsEditor/0.28.2560.1052@0.28.2560.1052" timestamp="1605125702517" />
+    <state x="1403" y="131" width="1024" height="843" key="SettingsEditor/0.28.2560.1052@0.28.2560.1052" timestamp="1605129527203" />
     <state x="1687" y="334" width="446" height="438" key="chooseDestDirectoryDialog" timestamp="1605127685042">
       <screen x="0" y="28" width="2560" height="1052" />
     </state>
     <state x="1687" y="334" width="446" height="438" key="chooseDestDirectoryDialog/0.28.2560.1052@0.28.2560.1052" timestamp="1605127685042" />
-    <state x="1578" y="260" width="672" height="678" key="search.everywhere.popup" timestamp="1605124971858">
+    <state x="1578" y="260" width="672" height="678" key="search.everywhere.popup" timestamp="1605129806611">
       <screen x="0" y="28" width="2560" height="1052" />
     </state>
-    <state x="1578" y="260" width="672" height="678" key="search.everywhere.popup/0.28.2560.1052@0.28.2560.1052" timestamp="1605124971858" />
+    <state x="1578" y="260" width="672" height="678" key="search.everywhere.popup/0.28.2560.1052@0.28.2560.1052" timestamp="1605129806611" />
   </component>
 </project>
